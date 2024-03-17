@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/d686a0881e92637f47f85161927b9719a2f64edcf18740e8b6548bd65837452b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3663333839335f36306230326635373739616234613233396137313566343162613661303037657e6d76325f645f353030305f313434375f735f322e676966)
 <h1 align="center">Hi 👋, I'm Shivam Shekhar</h1>
 <h3 align="center">I am Data Analyst enthusiast from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam7370&label=Profile%20views&color=0e75b6&style=flat" alt="shivam7370" /> </p>
 
