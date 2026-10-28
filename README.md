@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam7370&label=Profile%20views&color=0e75b6&style=flat" alt="shivam7370" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🔭 I’m currently working at **Masters' Union** as a Data Analyst.
 
 - 💬 Ask me about **Data Analysis**
 
-- 📫 How to reach me **shivamshekhar702@gmail.com**
+- 📫 How to reach me: **shivamshekhar702@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
